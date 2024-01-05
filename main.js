@@ -3,7 +3,7 @@ const data = [
         id:1,
         name:"mahsa ashghari",
         job : "front-end developer",
-        img: "2-user.jpg",
+        img: "./assest/2-user.jpg",
         text: "lorem ipsum dolor sit amet, consectetur adipisicing v az injor injor injor harfa ye chert o pert"
 
     },
@@ -11,7 +11,7 @@ const data = [
         id:2,
         name:"taha musapoor",
         job : "front-end designer",
-        img: "3-user.jpg",
+        img: "./assest/3-user.jpg",
         text: "lorem ipsum dolor sit amet, consectetur adipisicing v az injor harfa harfa harfa ye chert o pert"
 
     },
@@ -19,7 +19,7 @@ const data = [
         id:3,
         name:"manosha kiani",
         job : "Ui Ux Designer",
-        img: "4-user.jpg",
+        img: "./assest/4-user.jpg",
         text: "lorem ipsum dolor sit amet, consectetur adipisicing v az injor harfa ye chert chert chert chert o pert"
 
     },
@@ -27,7 +27,7 @@ const data = [
         id:4,
         name:"hassan alizade",
         job : "back-end developer",
-        img: "1-user.jpg",
+        img: "./assest/1-user.jpg",
         text: "lorem ipsum dolor sit amet, consectetur adipisicing v az injor harfa ye chert o pert pert pert pert"
 
     },
